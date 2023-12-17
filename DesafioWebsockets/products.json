@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain ",
+    "description": "Mountain Bycicle",
+    "price": 99.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/71qMz+mUekL._AC_SX679_.jpg",
+    "code": "PRD-1",
+    "stock": 55
+  },
+  {
+    "id": 2,
+    "title": "Mountain ",
+    "description": "Mountain Bycicle",
+    "price": 99.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/71qMz+mUekL._AC_SX679_.jpg",
+    "code": "PRD-2",
+    "stock": 33
+  },
+  {
+    "id": 3,
+    "title": "Mountain ",
+    "description": "Mountain Bycicle",
+    "price": 99.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/71qMz+mUekL._AC_SX679_.jpg",
+    "code": "PRD-3",
+    "stock": 33
+  },
+  {
+    "id": 4,
+    "title": "Coke ",
+    "description": "Soda",
+    "price": 9.99,
+    "thumbnail": "https://www.bing.com/images/search?view=detailV2&ccid=wN9vH342&id=8C02737FFCD312A836C92010BE78C7F8F7A8F286&thid=OIP.wN9vH342re1u9ahAMLE5IQHaE8&mediaurl=https%3a%2f%2fdailytophealth.com%2fwp-content%2fuploads%2fsites%2f18%2f2019%2f02%2fcfarmafotoshutterstock_339569408.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c0df6f1f7e36aded6ef5a84030b13921%3frik%3dhvKo9%252fjHeL4QIA%26pid%3dImgRaw%26r%3d0&exph=2330&expw=3495&q=coca-cola&simid=608031970793426321&FORM=IRPRST&ck=B49D72A77732BF5B9DFE37CBF20B7B99&selectedIndex=0&ajaxhist=0&ajaxserp=0",
+    "code": "PRD-4",
+    "stock": 35
+  },
+  {
+    "id": 5,
+    "title": "Wings",
+    "description": "Food",
+    "price": "150",
+    "thumbnail": "no image",
+    "code": "PRD-5",
+    "stock": "22"
+  },
+  {
+    "id": 6,
+    "title": "Eggs",
+    "description": "Food",
+    "price": "12",
+    "thumbnail": "no image",
+    "code": "PRD-6",
+    "stock": "25"
+  },
+  {
+    "id": 7,
+    "title": "Water",
+    "description": "Drinks",
+    "price": "22",
+    "thumbnail": "no image",
+    "code": "PRD-7",
+    "stock": "66"
+  },
+  {
+    "id": 8,
+    "title": "Water",
+    "description": "Drinks",
+    "price": 11,
+    "thumbnail": "no image",
+    "code": "PRD-8",
+    "stock": 33
+  },
+  {
+    "id": 9,
+    "title": "Milk",
+    "description": "Drinks",
+    "price": 10,
+    "thumbnail": "no image",
+    "code": "PRD-9",
+    "stock": 25
+  }
+]
