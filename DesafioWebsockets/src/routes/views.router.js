@@ -31,7 +31,7 @@ router.post('/form-products', async (req, res) => {
         return;
     }
 
-    const result = await productManager.addProduct(title, description, price, thumbnail, stock);
+    const result = await productManager.addProduct({title, description, price, thumbnail, stock});
     console.log(result);
     res.redirect('/products');
 });
